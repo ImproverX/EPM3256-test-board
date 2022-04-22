@@ -1,1 +1,1 @@
-# EPM3256-test-board
+# EPM3256 test board
